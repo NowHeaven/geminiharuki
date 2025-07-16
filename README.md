@@ -121,3 +121,4 @@
 [![edgeone logo](https://edgeone.ai/_next/static/media/headLogo.daeb48ad.png?auto=format&fit=max&w=384)](https://edgeone.ai)
 CDN acceleration and security protection for this project are sponsored by Tencent EdgeOne.
 本项目的CDN加速及安全防护由腾讯EdgeOne赞助支持。
+ALL haruki is free。
